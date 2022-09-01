@@ -1,0 +1,20 @@
+body {
+  background-color: #ffffff;
+}
+.my_img{
+  height: 300px;
+  width: 350px;
+}
+
+h1 {
+   color: #B93160;
+   font-style: "Montserrat";
+}
+
+h2{
+  color: #7A4495;
+}
+
+h3{
+  color: 371B58;
+}
